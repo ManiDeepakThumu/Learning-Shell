@@ -1,1 +1,2 @@
-# Learning-Shell
+# Learning-Shel
+shell scripting 
