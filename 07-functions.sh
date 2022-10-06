@@ -1,6 +1,6 @@
 ## Declaration way 1
 
-fucntion SAMPLE() {
+function SAMPLE() {
   echo SAMPLE FUCNTION
 }
 
