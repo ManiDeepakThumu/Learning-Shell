@@ -1,7 +1,12 @@
 ## Declaration way 1
 
 function SAMPLE() {
+  echo a from Main Program = $a
+  a=100
+  echo a in Function after Override in Function - $a
   echo SAMPLE FUNCTION
+  b=10
+  echo First Argument to Script = $1
 }
 
 
@@ -10,5 +15,10 @@ SAMPLE1() {
   echo SAMPLE1 FUNCTION
 }
 
+## Main Program
+a=10
 SAMPLE
 SAMPLE1
+echo b from Function = $b
+b=200
+echo b from Function after Override in Main Prgram - $b
