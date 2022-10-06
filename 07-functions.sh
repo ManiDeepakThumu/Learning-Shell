@@ -1,13 +1,13 @@
 ## Declaration way 1
 
 function SAMPLE() {
-  echo SAMPLE FUCNTION
+  echo SAMPLE FUNCTION
 }
 
 
 ## Declaration way 2
 SAMPLE1() {
-  echo SAMPLE1 FUCNTION
+  echo SAMPLE1 FUNCTION
 }
 
 SAMPLE
